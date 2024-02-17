@@ -2,7 +2,7 @@
 
 client_id = "ba9add063f3415c37f45d3f79cb8fe43"
 name = "remix-app-test-1"
-application_url = "https://blues-encouraging-suzuki-morocco.trycloudflare.com"
+application_url = "https://canon-nightlife-lebanon-produce.trycloudflare.com"
 embedded = true
 
 [build]
@@ -16,9 +16,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://blues-encouraging-suzuki-morocco.trycloudflare.com/auth/callback",
-  "https://blues-encouraging-suzuki-morocco.trycloudflare.com/auth/shopify/callback",
-  "https://blues-encouraging-suzuki-morocco.trycloudflare.com/api/auth/callback"
+  "https://canon-nightlife-lebanon-produce.trycloudflare.com/auth/callback",
+  "https://canon-nightlife-lebanon-produce.trycloudflare.com/auth/shopify/callback",
+  "https://canon-nightlife-lebanon-produce.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
